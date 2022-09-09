@@ -1,0 +1,48 @@
+a,
+.text-minuse{
+	color: red;
+}
+h1,
+h2 {
+ color: goldenrod;
+}
+
+span {
+	color: goldenrod;
+}
+
+.text-one p {
+	color: violet;
+}
+
+.minuse {
+	color: tomato;
+}
+li {
+	color: blue;
+}
+#qw{
+	color: yellow;
+}
+#qe {
+	color: wheat;
+}
+#qr {
+	color: yellowgreen;
+}
+#qt {
+color: violet;
+}
+.text-three {
+	color: slateblue;
+}
+.text-two > p {
+	color: gold;
+} 
+
+p.text-four {
+	color: green;
+}
+p {
+	color: rgb(92, 69, 26);
+}
